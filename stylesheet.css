@@ -2,4 +2,5 @@ header {
   width: 110%;
   height: 50px;
   background-color: #0000ff;
+  float: left;
 }
